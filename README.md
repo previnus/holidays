@@ -1,2 +1,2 @@
-# Wordpress Development Themes and Plugins
-# by Previn K Appadu
+ALT-H1 Wordpress Development Themes and Plugins
+#### by Previn K Appadu
