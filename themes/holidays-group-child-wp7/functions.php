@@ -773,7 +773,6 @@ add_action("manage_posts_custom_column", "ct_custom_listings_cols_modified");
 				$query->set('orderby','meta_value');
 			}
 		}
-
 //add additional class notranslate to body class to prevent google auto translate
 add_filter( 'body_class', function( $classes ) {
     return array_merge( $classes, array( 'notranslate' ) );
